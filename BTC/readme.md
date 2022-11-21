@@ -516,7 +516,7 @@ bitcoin-cli decoderawtransaction 020000000001013d75af2a19881e883ff5c604eeaaae551
 
 02 ......................................... Number of witness: 2, size of witness
 |
-| 47 ....................................... Bytes in witness script: 71
+| 47 ....................................... Bytess in witness script: 71
 | | 304402205faa35a19c56faa2c78f40bf
 | | 84918ee53117e789c9bb27a37c8c36b0
 | | b70d713402205855358e1379e2257421
